@@ -1,7 +1,3 @@
-<!-- image -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d870ec6b-707a-4dbe-97cb-366378baac33" alt="Profile Picture">
-</p>
 
 <!-- Welcome Message -->
 <h2 align="center">Hi there, I'm Priyansh Sao! 👋</h2>
