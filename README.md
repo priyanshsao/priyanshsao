@@ -10,7 +10,6 @@
 ### About Me
 
 - 🌱 I’m currently learning **Kubernetes** and **Go**
-- 💻 Actively contributing to **open-source projects** like **Kubernetes** and others
 - 🛠 Interested in **DevOps**, **Cloud Technologies**, and building **web applications**
 - 🚀 Always up for learning and collaborating on new projects!
 
