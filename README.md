@@ -19,7 +19,11 @@
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30px"/>](https://www.linkedin.com/in/priyansh-sao-894737301/)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="30px"/>](https://x.com/priyanshsao06)
 
-<!-- Language Contribution Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsao&layout=compact&theme=radical" alt="Top Languages">
+
+<h3>My Badges</h3>
+<p>
+  <a href="https://holopin.io/@priyanshsao">
+    <img src="https://holopin.me/priyanshsao" alt="Holopin badges" />
+  </a>
 </p>
+
