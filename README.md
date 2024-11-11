@@ -27,3 +27,13 @@
   </a>
 </p>
 
+## 🌟 Merged PRs
+
+| 📁 **Repository**                                     | 🔗 **PR Title**                                                                     | 📝 **Description**                    | 📅 **Date Merged** |
+|-------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------|---------------------|
+| [kubernetes/community](https://github.com/kubernetes/community) | [Fixed broken link in sig-node/CONTRIBUTING.md](https://github.com/kubernetes/community/pull/7940) | Resolved broken link issue             | 2024-06-17         |
+| [jaegertracing/documentation](https://github.com/jaegertracing/documentation) | [Fixed typo in scripts/cspell/project-words.txt](https://github.com/jaegertracing/documentation/pull/753) | Corrected typo in markdown file        | 2024-10-11         |
+| [jaegertracing/documentation](https://github.com/jaegertracing/documentation) | [Fixed one more typo in scripts/cspell/project-words.txt](https://github.com/jaegertracing/documentation/pull/755) | Additional typo correction in file     | 2024-10-12         |
+| [jaegertracing/documentation](https://github.com/jaegertracing/documentation) | [Corrected the URL for jaeger-operator.yaml file](https://github.com/jaegertracing/documentation/pull/770) | Fixed 404 Page not found error         | 2024-11-11         |
+
+
